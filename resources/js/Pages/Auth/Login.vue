@@ -1,14 +1,14 @@
 <template>
 
     <Head>
-        <title>Login Account - Aplikasi Kasir</title>
+        <title>Login Account - R3 Car Repair Shop</title>
     </Head>
     <div class="col-md-4">
         <div class="fade-in">
             <div class="text-center mb-4">
                 <a href="" class="text-dark text-decoration-none">
                     <img src="/images/cash-machine.png" width="70">
-                    <h3 class="mt-2 font-weight-bold">APLIKASI KASIR</h3>
+                    <h3 class="mt-2 font-weight-bold">R3 Car Repair Shop</h3>
                 </a>
             </div>
             <div class="card-group">
